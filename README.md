@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marrowp1968
 - 👀 I’m interested in AI & data science applied in a variety of contexts
-- 🌱 I’m currently learning Python for AI, machine learning and data science
+- 🌱 I’m always improving my knowledge of data science
 - 📫 How to reach me via Twitter @evopma 
 
 <!---
